@@ -1,0 +1,36 @@
+## Introdução ao GIT/GITHUB
+
+# Navegação basica no terminal e instalação
+
+Códigos de comandos no "CMD"
+|___>>> DIR -> Todos arquivos no PC
+|
+|___>>> CD/ -> Navegação nas pasta do PC
+	|__>> DIR (novamente) -->> local especifico na pasta.
+	|__>> CD WINDOWS -->> navegar dentro da pasta Windows.
+|
+|___>>> CD:\WINDOWS> CD.. -->> Voltar um comando
+|
+|___>>> CLS -->> Limpar a tela do CMD
+|
+|___>>> MKDIR -->> Criar pasta
+|
+|___>>> ECHO -->> Criar arquivo na pasta
+	|__>> ECHO HELLO >
+			|__>> Redirecionador de fluxo
+	|__>> Hello.txt -->> criação do arquivo confirmado
+|
+|___>>> DEL -->> Deletar (apenas arquivo, deixando a pasta)
+	|__>> Ex: del workspace
+|
+|___>>> RMDIR -->>
+	|__>> Ex: rmdir workspace /S/Q
+
+## Comandos de criação de cheves para utilização no GIT/GITHUB
+	|
+	|__>> ssh-keygen -t ed25519 -c (email)
+	|
+	|__>> mkdir (Qualquer titulo) -->> para criação de pasta.
+
+......
+
